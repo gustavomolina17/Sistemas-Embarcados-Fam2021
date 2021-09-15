@@ -1,3 +1,9 @@
-## Exercícios
+## Aula 05 - 16/09
 
-1-) Faça um programa em C que leia o nome e 4 notas de um aluno. O programa deve informar: se o aluno foi aprovado (média maior ou igual a 6,0), está de recuperação (média entre 5,0 e 5,9) ou reprovado (média menor que 5,0).
+- Estruturas de decisão em C
+
+## Links do youtube
+
+- https://youtu.be/2YApWS2QW1o
+- https://youtu.be/KXHRiW2MlKk
+- https://youtu.be/4FZK6yYReBQ
