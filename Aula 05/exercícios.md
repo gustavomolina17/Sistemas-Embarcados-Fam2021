@@ -9,10 +9,12 @@
 3-) Faça um programa que leia um número inteiro entre 1 e 12 e escreva o mês correspondente. Caso o usuário digite um número fora desse intervalo, deverá aparecer uma mensagem informando que não existe mês com este número. Utilize o switch para este problema.
 
 4-) Em um campeonato nacional de arco-e-flecha, tem-se equipes de três jogadores para cada estado. Sabendo-se que os arqueiros de uma equipe não obtiveram o mesmo número de pontos, criar um programa em C que informe se uma equipe foi classificada, de acordo com a seguinte especificação:
+
 • Ler os pontos obtidos por cada jogador da equipe;
+
 • Mostrar esses valores em ordem decrescente;
-• Se a soma dos pontos for maior do que 100, imprimir a média aritmética
-entre eles, caso contrário, imprimir a mensagem "Equipe desclassificada".
+
+• Se a soma dos pontos for maior do que 100, imprimir a média aritmética entre eles, caso contrário, imprimir a mensagem "Equipe desclassificada".
 
 5-) A biblioteca de uma Universidade deseja fazer um programa que leia o nome do
 livro que será emprestado, o tipo de usuário (professor ou aluno) e possa imprimir
