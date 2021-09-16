@@ -30,16 +30,5 @@ void main(){
 	}
 	else{
 		printf("Tipo de usuario: Aluno\n Total de dias: 3");
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 }
