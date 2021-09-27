@@ -1,4 +1,4 @@
-## Aula 06 - 23/09 - Exercícios
+## Aula 07 - 30/09 - Exercícios
 
 - 1-) Faça um programa em C que imprima todos os números de 1 até 100.
 
