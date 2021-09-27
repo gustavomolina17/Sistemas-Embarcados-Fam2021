@@ -1,5 +1,5 @@
-## Aula 06 - 23/09
+## Aula 07 - 30/09
 
-- Estruturas de repetição em C
+- Funções - Parte 1
 
 
