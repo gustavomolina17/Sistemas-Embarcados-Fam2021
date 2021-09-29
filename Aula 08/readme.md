@@ -1,5 +1,6 @@
-## Aula 07 - 30/09
+## Aula 08 - 07/10
 
-- Funções - Parte 1
+- Funções - Parte 2
+- Bibliotecas
 
 
