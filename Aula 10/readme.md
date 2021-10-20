@@ -1,6 +1,6 @@
-## Aula 08 - 07/10
+## Aula 10 - 21/10
 
-- Funções - Parte 2
-- Bibliotecas
+- Introdução à microcontroladores
+
 
 
