@@ -9,7 +9,8 @@
 - Estruturas de Decisão
 - Estruturas de Repetição
 - Funções e Bibliotecas
-- Introdução à microcontroladores 
+- Introdução à microcontroladores
+- Programação de Periféricos
 
 ## IDE utilizada Dev C++
 - O Dev C++ pode ser baixado em : https://sourceforge.net/projects/orwelldevcpp/.
