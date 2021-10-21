@@ -13,6 +13,7 @@
 - Programação de Periféricos
 - Saídas Digitais
 - Entradas Digitais
+- Display de LCD
 
 ## IDE utilizada Dev C++
 - O Dev C++ pode ser baixado em : https://sourceforge.net/projects/orwelldevcpp/.
