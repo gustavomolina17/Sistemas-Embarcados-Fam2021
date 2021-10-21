@@ -11,6 +11,7 @@
 - Funções e Bibliotecas
 - Introdução à microcontroladores
 - Programação de Periféricos
+- Saídas Digitais
 
 ## IDE utilizada Dev C++
 - O Dev C++ pode ser baixado em : https://sourceforge.net/projects/orwelldevcpp/.

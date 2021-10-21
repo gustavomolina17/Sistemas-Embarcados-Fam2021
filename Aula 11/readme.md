@@ -1,6 +1,6 @@
-## Aula 08 - 07/10
+## Aula 11 - 28/10
 
-- Funções - Parte 2
-- Bibliotecas
+- Programação de Periféricos
+
 
 
