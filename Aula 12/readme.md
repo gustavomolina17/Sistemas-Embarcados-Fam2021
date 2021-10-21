@@ -1,6 +1,6 @@
-## Aula 08 - 07/10
+## Aula 12 - 04/11
 
-- Funções - Parte 2
-- Bibliotecas
+- Saídas DIgitais
+
 
 
