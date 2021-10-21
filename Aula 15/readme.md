@@ -1,6 +1,6 @@
-## Aula 08 - 07/10
+## Aula 15 - 25/11
 
-- Funções - Parte 2
-- Bibliotecas
+- Plantão de dúvidas & revisão de conteúdo
+
 
 
