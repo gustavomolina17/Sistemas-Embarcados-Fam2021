@@ -1,7 +1,8 @@
-## Aula 15 - 25/11
+## Aula 16 - 02/12
 
-- Plantão de dúvidas & revisão de conteúdo
+- Avaliação A2
 
 
-![image](https://user-images.githubusercontent.com/70485830/138298036-c29eb5a8-9381-4129-b00c-34eff0beefb7.png)
+![image](https://user-images.githubusercontent.com/70485830/138298861-b5d08828-45de-4ba2-a6f6-af73a3c3ebb1.png)
+
 
