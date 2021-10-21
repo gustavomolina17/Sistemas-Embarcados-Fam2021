@@ -1,6 +1,6 @@
-## Aula 08 - 07/10
+## Aula 14- 18/11
 
-- Funções - Parte 2
-- Bibliotecas
+- Display de LCD
+
 
 
