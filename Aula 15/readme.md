@@ -1,5 +1,6 @@
 ## Aula 15 - 25/11
 
+- Display de LCD
 - Plantão de dúvidas & revisão de conteúdo
 
 
