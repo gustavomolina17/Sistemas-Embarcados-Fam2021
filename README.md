@@ -1,5 +1,5 @@
 <h1 align="center">
-    Sistemas Embarcados FAM - Engenharia da Computação
+    Sistemas Embarcados FAM - Engenharia da Computação 02/2021
 </h1>
 
 ## Ementa
